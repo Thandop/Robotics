@@ -1,5 +1,7 @@
-""" In this code ,I'm just setting up the environment for our code and load some assets
-
+""" - In this code ,I'm just setting up the environment for our code and load some assets
+    - To run this code you will need to install pybullet
+    - created by Proffessor Thando Mlotshwa
+    - Date : 22 August 2026
 """
 
 import pybullet as p 
