@@ -42,10 +42,5 @@ for _ in range(240*10):
     p.stepSimulation()
     time.sleep(1.0/240.0)
  
-
-
-
-
-
 # This is the code to tell the system to close grateful
 p.disconnect
